@@ -529,4 +529,4 @@ no configuration file provided: not found
 
 - Docker-compose will not magically figure out which containers you are talking about
     - It needs the `docker-compose.yml` file as _kind of_ a reference to understand which specific containers its
-      suppose to get the status of
+      suppose to get the status of.
